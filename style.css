@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Playfair+Display+SC');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+body {
+    font: normal 18px 'Open Sans', sans-serif;
+    background: #fafafa;
+    color: #333;
+}
+
+main {
+    min-height: 20vh;
+}
+
+header {
+    background: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+    h1{
+        font: normal 2em 'Playfair Display SC', serif;
+        text-align:center;
+    }
+/* LOGO*/ 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* sucsses
+  .message {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 98%;
+    border: solid;
+    border-color: #c9e7d1;
+    background-color: #d4edda;
+    text-align: center;
+    color:#1e5c26;
+    border-radius: 4px;
+  }*/ 
+
+
